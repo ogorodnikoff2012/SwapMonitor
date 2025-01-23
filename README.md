@@ -1,5 +1,7 @@
 # Swap Monitor
 
+![](./swap_monitor.png)
+
 Swap Monitor is a lightweight system tray application that monitors swap memory usage and provides visual notifications when swap is in use.
 
 ## Features
@@ -91,6 +93,14 @@ To enable autostart for the Swap Monitor application:
    - **Red (animated)**: Swap is active.
 
 3. Right-click the tray icon to open the menu and quit the application.
+
+---
+
+## Screenshots
+
+![](./screenshots/swap_free.jpg)
+
+![](./screenshots/swap_busy.jpg)
 
 ---
 
