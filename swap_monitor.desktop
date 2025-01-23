@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Swap Monitor
+GenericName=Swap Usage Monitor
+Exec=/usr/local/bin/swap_monitor
+Icon=/usr/share/icons/hicolor/128x128/apps/swap_monitor.svg
+Categories=Utility;System;
+Terminal=false
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+Comment=Monitor swap usage and display tray notifications.
