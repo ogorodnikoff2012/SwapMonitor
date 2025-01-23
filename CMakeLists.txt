@@ -25,7 +25,7 @@ link_directories(${GTK3_LIBRARY_DIRS} ${APPINDICATOR_LIBRARY_DIRS})
 add_executable(swap_monitor swap_monitor.c)
 
 # Link libraries
-target_link_libraries(swap_tray ${GTK3_LIBRARIES} ${APPINDICATOR_LIBRARIES} m)
+target_link_libraries(swap_monitor ${GTK3_LIBRARIES} ${APPINDICATOR_LIBRARIES} m)
 
 # Installation paths
 set(BIN_INSTALL_DIR "/usr/local/bin")
